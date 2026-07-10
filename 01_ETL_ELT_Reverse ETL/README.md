@@ -1,4 +1,4 @@
-# ETL, ELT & Reverse ETL Pipeline
+
 
 <h2 align="center">
   ETL vs ELT vs Reverse ETL</h2>

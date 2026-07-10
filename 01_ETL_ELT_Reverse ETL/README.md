@@ -1,8 +1,7 @@
 # ETL, ELT & Reverse ETL Pipeline
 
-<p align="center">
-  <img src="01_ETL_ELT_Reverse ETL/images/ETL vs ELT vs Reverse ETL.png" alt="ETL ELT Reverse ETL Pipeline" width="100%">
-</p>
+<h2 align="center">
+  ETL vs ELT vs Reverse ETL</h2>
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?logo=pandas&logoColor=white)
